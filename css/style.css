@@ -164,6 +164,9 @@ body {
     letter-spacing: 0.02em;
     margin-bottom: 1.5rem;
     color: var(--color-text);
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .hero-tagline {
