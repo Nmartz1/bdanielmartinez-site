@@ -1,3 +1,4 @@
+# robots.txt for bdanielmartinez.com
 User-agent: *
 Allow: /
 
